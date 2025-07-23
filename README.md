@@ -83,7 +83,7 @@ SMOTE significantly enhanced spam recall, ensuring fewer false negatives, making
 
 ##  Demo & LinkedIn
 
-- **GitHub Repository:** https://github.com/YourUsername/OIBSIP_DataScience_Task4  
+- **GitHub Repository:** https://github.com/Rajalakshmi2025/OIBSIP_DataScience_Task4  
 - **LinkedIn Post:** [See my project post](https://linkedin.com/in/yourprofile) 
 
 ---
